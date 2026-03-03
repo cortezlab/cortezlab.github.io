@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://cortezlab.github.io/al-folio/sitemap.xml
+Sitemap: https://cortezlab.github.io/sitemap.xml
