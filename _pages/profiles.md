@@ -22,8 +22,7 @@ profiles:
     content: about_eva.md
     image_circular: true # crops the image to make it circular
     more_info: >
-     <p>Eva Gbur            </p>
-
+     <p>Eva Gbur </p>
      <p>Lab Technician III</p>
      
 ---

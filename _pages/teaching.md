@@ -1,14 +1,26 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
-description: Course materials, schedules, and resources for classes taught.
-nav: false
-calendar: true
+permalink: /news/
+title: News
+description: updates, highlights & milestones
+nav: true
+nav_order: 5
+calendar: false
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+The latest from our lab
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
 
-{% include courses.liquid %}
+## 2026
+
+<span style="color: #FFB81C; font-weight: bold;"> February 23rd 2026</span> — Website developer Chaimae begins her rotation.
+
+<span style="color: #FFB81C; font-weight: bold;"> January 5th 2026</span> — Eva joins the lab. 
+
+
+
+---
+
+## 2025
+
+<span style="color: #FFB81C; font-weight: bold;">September 1st 2025</span> — The Cortez Lab officially opens at the University of Pittsburgh School of Medicine!

@@ -1,7 +1,9 @@
 ---
-layout: page
-title: news
-permalink: /news/
+layout: news
+title: News
+permalink: /newskk/
+description: updates, highlights & milestones yaaaay
+nav: false
+nav_order: 5
 ---
 
-{% include news.liquid %}

@@ -2,11 +2,11 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Explore the projects shaping our research.
 nav: true
 nav_order: 1
-display_categories: [work, fun]
-horizontal: true
+display_categories: [Memory ILC2s,something else]
+horizontal: false
 ---
 
 <!-- pages/projects.md -->
