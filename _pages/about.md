@@ -4,6 +4,10 @@ title: About
 permalink: /
 subtitle: 
 
+<div style="text-align: center; margin-bottom: 50px;">
+  <img src="/assets/img/pittlogo.png" alt="University of Pittsburgh" style="height: 100px;">
+</div>
+
 profile:
   align: right
   image: gut_pic_cover.png
@@ -37,9 +41,5 @@ Our lab broadly examines how inflammation induces tissue adaptations, with a foc
 <div style="text-align: center; margin: 20px 0;">
   <img src="/assets/img/groupphoto.png" alt="Cortez Lab Group Photo" style="width: 70%; border-radius: 10px;">
   <p style="color: #003594; font-weight: bold; margin-top: 10px;">The Cortez Lab — University of Pittsburgh School of Medicine</p>
-</div>
-
-<div style="text-align: center; margin-bottom: 50px;">
-  <img src="/assets/img/pittlogo.png" alt="University of Pittsburgh" style="height: 100px;">
 </div>
 
